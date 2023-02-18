@@ -1,0 +1,7 @@
+Steps:
+
+1-Run Scripts for DB
+2-You could run Azure service bus or RabbitMQ
+form Appsetting
+  "RunAzureBus": false   to run RabbitMQ
+  "RunAzureBus": true    to run Azure

@@ -1,0 +1,16 @@
+D:\3STask\Test\User\UserInfo.Application\bin\Debug\net6.0\UserInfo.Application.deps.json
+D:\3STask\Test\User\UserInfo.Application\bin\Debug\net6.0\UserInfo.Application.dll
+D:\3STask\Test\User\UserInfo.Application\bin\Debug\net6.0\ref\UserInfo.Application.dll
+D:\3STask\Test\User\UserInfo.Application\bin\Debug\net6.0\UserInfo.Application.pdb
+D:\3STask\Test\User\UserInfo.Application\bin\Debug\net6.0\UserInfo.Domain.dll
+D:\3STask\Test\User\UserInfo.Application\bin\Debug\net6.0\UserInfo.Domain.pdb
+D:\3STask\Test\User\UserInfo.Application\obj\Debug\net6.0\UserInfo.Application.GlobalUsings.g.cs
+D:\3STask\Test\User\UserInfo.Application\obj\Debug\net6.0\UserInfo.Application.csproj.AssemblyReference.cache
+D:\3STask\Test\User\UserInfo.Application\obj\Debug\net6.0\UserInfo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\3STask\Test\User\UserInfo.Application\obj\Debug\net6.0\UserInfo.Application.AssemblyInfoInputs.cache
+D:\3STask\Test\User\UserInfo.Application\obj\Debug\net6.0\UserInfo.Application.AssemblyInfo.cs
+D:\3STask\Test\User\UserInfo.Application\obj\Debug\net6.0\UserInfo.Application.csproj.CoreCompileInputs.cache
+D:\3STask\Test\User\UserInfo.Application\obj\Debug\net6.0\UserInfo.Application.csproj.CopyComplete
+D:\3STask\Test\User\UserInfo.Application\obj\Debug\net6.0\UserInfo.Application.dll
+D:\3STask\Test\User\UserInfo.Application\obj\Debug\net6.0\ref\UserInfo.Application.dll
+D:\3STask\Test\User\UserInfo.Application\obj\Debug\net6.0\UserInfo.Application.pdb

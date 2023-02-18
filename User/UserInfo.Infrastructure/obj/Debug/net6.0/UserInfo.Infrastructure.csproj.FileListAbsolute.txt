@@ -1,0 +1,12 @@
+D:\3STask\Test\User\UserInfo.Infrastructure\bin\Debug\net6.0\UserInfo.Infrastructure.deps.json
+D:\3STask\Test\User\UserInfo.Infrastructure\bin\Debug\net6.0\UserInfo.Infrastructure.dll
+D:\3STask\Test\User\UserInfo.Infrastructure\bin\Debug\net6.0\ref\UserInfo.Infrastructure.dll
+D:\3STask\Test\User\UserInfo.Infrastructure\bin\Debug\net6.0\UserInfo.Infrastructure.pdb
+D:\3STask\Test\User\UserInfo.Infrastructure\obj\Debug\net6.0\UserInfo.Infrastructure.GlobalUsings.g.cs
+D:\3STask\Test\User\UserInfo.Infrastructure\obj\Debug\net6.0\UserInfo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\3STask\Test\User\UserInfo.Infrastructure\obj\Debug\net6.0\UserInfo.Infrastructure.AssemblyInfoInputs.cache
+D:\3STask\Test\User\UserInfo.Infrastructure\obj\Debug\net6.0\UserInfo.Infrastructure.AssemblyInfo.cs
+D:\3STask\Test\User\UserInfo.Infrastructure\obj\Debug\net6.0\UserInfo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\3STask\Test\User\UserInfo.Infrastructure\obj\Debug\net6.0\UserInfo.Infrastructure.dll
+D:\3STask\Test\User\UserInfo.Infrastructure\obj\Debug\net6.0\ref\UserInfo.Infrastructure.dll
+D:\3STask\Test\User\UserInfo.Infrastructure\obj\Debug\net6.0\UserInfo.Infrastructure.pdb

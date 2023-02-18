@@ -1,0 +1,12 @@
+D:\3STask\Test\UserDocument\UserInfo.Domain\bin\Debug\net6.0\Document.Domain.deps.json
+D:\3STask\Test\UserDocument\UserInfo.Domain\bin\Debug\net6.0\Document.Domain.dll
+D:\3STask\Test\UserDocument\UserInfo.Domain\bin\Debug\net6.0\ref\Document.Domain.dll
+D:\3STask\Test\UserDocument\UserInfo.Domain\bin\Debug\net6.0\Document.Domain.pdb
+D:\3STask\Test\UserDocument\UserInfo.Domain\obj\Debug\net6.0\Document.Domain.GlobalUsings.g.cs
+D:\3STask\Test\UserDocument\UserInfo.Domain\obj\Debug\net6.0\Document.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\3STask\Test\UserDocument\UserInfo.Domain\obj\Debug\net6.0\Document.Domain.AssemblyInfoInputs.cache
+D:\3STask\Test\UserDocument\UserInfo.Domain\obj\Debug\net6.0\Document.Domain.AssemblyInfo.cs
+D:\3STask\Test\UserDocument\UserInfo.Domain\obj\Debug\net6.0\Document.Domain.csproj.CoreCompileInputs.cache
+D:\3STask\Test\UserDocument\UserInfo.Domain\obj\Debug\net6.0\Document.Domain.dll
+D:\3STask\Test\UserDocument\UserInfo.Domain\obj\Debug\net6.0\ref\Document.Domain.dll
+D:\3STask\Test\UserDocument\UserInfo.Domain\obj\Debug\net6.0\Document.Domain.pdb
